@@ -83,6 +83,7 @@ a:hover {
  }
  .hamburger-icon span{
     width: 100%;
+    max-width: 400px;
     height: 2px;
     background-color: black;
     transition: all 0.3 ease-in-out;
@@ -431,4 +432,6 @@ transition: all o.3 ease-in-out;
     font-size: bold;
     
    }
+   
   
+    
